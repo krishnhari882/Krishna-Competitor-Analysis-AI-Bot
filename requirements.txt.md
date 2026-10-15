@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+beautifulsoup4
+trafilatura
+scikit-learn
