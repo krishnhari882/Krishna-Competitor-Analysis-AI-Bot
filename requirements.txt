@@ -1,4 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+trafilatura
+feedparser
 google-genai
-flask
-gunicorn
-python-dotenv
+reportlab
